@@ -10,6 +10,11 @@ https://github.com/kennymkchan/interview-questions-in-javascript
 
 http://www.techbeamers.com/top-web-developer-interview-questions/#javascript-interview-questions
 
+**Es6**
+
+https://www.onlineinterviewquestions.com/es6-interview-questions/
+
+
 
 
 ### Videos 📹
