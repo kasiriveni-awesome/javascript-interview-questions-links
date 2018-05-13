@@ -10,6 +10,8 @@ https://github.com/kennymkchan/interview-questions-in-javascript
 
 http://www.techbeamers.com/top-web-developer-interview-questions/#javascript-interview-questions
 
+https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+
 **Es6**
 
 https://www.onlineinterviewquestions.com/es6-interview-questions/
@@ -21,3 +23,4 @@ https://www.onlineinterviewquestions.com/es6-interview-questions/
 https://www.youtube.com/watch?v=oxoFVqetl1E
 
 https://www.youtube.com/watch?v=yo3MJPcVJc8
+
